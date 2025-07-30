@@ -1,0 +1,1 @@
+mkdir ./src/components/Main/FolderName && touch ./src/components/Main/FolderName/index.jsx
